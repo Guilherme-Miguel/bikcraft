@@ -1,0 +1,68 @@
+/* CSS Reset */
+@import "./global/global.css";
+
+/* Tipografia (Letras (fontes)) */
+@import "./utilidades/tipografia.css";
+
+/* Cores do site */
+@import "./utilidades/cores.css";
+
+/* Animação js */
+@import "./utilidades/animacao.css";
+
+/* Header (Cabeçalho)*/
+@import "./global/header.css";
+
+/* Footer */
+@import "./global/footer.css";
+
+/* Home */
+@import "./home/introducao.css";
+
+/* UTILIDADES | Botão (links (tag a)) */
+@import "./utilidades/componentes.css";
+
+/* Formulário */
+@import "./utilidades/formulario.css";
+
+/* Tecnologia avançada */
+@import "./home/tecnologia.css";
+
+/* Parceiros */
+@import "./home/parceiros.css";
+
+/* Depoimento */
+@import "./home/depoimento.css";
+
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
+
+/* Bicicletas segunda página*/
+@import "./bicicletas/bicicletas.css";
+
+/* Bicicletas especificações*/
+@import "./bicicleta/bicicleta.css";
+
+/* SEGURO */
+@import "./bicicleta/seguro.css";
+
+/* Seguros */
+@import "./seguros/seguros.css";
+
+/* Vantagens */
+@import "./seguros/vantagens.css";
+
+/* Perguntas */
+@import "./seguros/perguntas.css";
+
+/* Contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+
+/* Contato | Orçamento */
+@import "./orcamento/orcamento.css";
+
+/* Termos */
+@import "./termos/termos.css";
+
+
